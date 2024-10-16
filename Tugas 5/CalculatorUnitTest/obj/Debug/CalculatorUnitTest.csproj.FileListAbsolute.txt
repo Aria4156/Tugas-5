@@ -1,0 +1,11 @@
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\obj\Debug\CalculatorUnitTest.csprojAssemblyReference.cache
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\obj\Debug\CalculatorUnitTest.csproj.CoreCompileInputs.cache
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\bin\Debug\CalculatorMachine.dll
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\bin\Debug\nunit.framework.dll
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\bin\Debug\CalculatorMachine.pdb
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\bin\Debug\nunit.framework.xml
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\obj\Debug\CalculatorUnitTest.csproj.CopyComplete
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\21.11.4156\upload\01 latihan\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
